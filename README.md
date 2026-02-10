@@ -67,6 +67,6 @@ Ele cria uma **economia de bairro digital**, conectando pessoas, negócios e ser
 
 ## 👨‍💻 Autores  
 - **Talita Keniata** – Desenvolvedor Full Stack & Estudante de ADS
-- - **Kelly Cristina** – Desenvolvedor Full Stack & Estudante de ADS  
+- **Kelly Cristina** – Desenvolvedor Full Stack & Estudante de ADS  
 - **Pedro Alves** – Desenvolvedor Full Stack & Estudante de ADS  
 - **Rai Gonçalves** – Desenvolvedor Full Stack & Estudante de ADS  
